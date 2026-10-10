@@ -161,18 +161,7 @@ Submit Pull Request
 Run tests before committing:
 
 pytest -v
-👨‍💻 Author
 
-Pranav S
 
-GitHub: https://github.com/SPRANAV0
 
-LinkedIn: https://www.linkedin.com/in/pranav-s-a34668296/
-
-📜 License
-
-This project is licensed under the MIT License.
-
-📌 Project Status
-
-🟢 Active – Learning & Enhancement Phase
+🟢 Active – Learning & Enhancemen
